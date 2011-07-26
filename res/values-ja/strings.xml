@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_categoryGeneralSettings">標準</string>
+    <string name="setting_checkEnabledSignal">時報を有効にする</string>
+    <string name="menu_TestExecute">テスト実行</string>
+    <string name="menu_GoSettings">設定</string>
+    <string name="setting_categoryAdditionalSettings">追加設定</string>
+    <string name="setting_checkEnabledLongSearch">検索ボタン長押し操作に応答する</string>
+    <string name="caption_speakCurrentTime">時刻読み上げ</string>
+</resources>
